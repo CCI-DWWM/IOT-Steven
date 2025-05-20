@@ -63,3 +63,7 @@ WelcomrCloud-->>Smartphone: Erreur : Accès non confirmé
 Smartphone-->>Utilisateur: Erreur : Accès non confirmé
 end
 ```
+
+## Code NodeRed
+
+![image](https://github.com/user-attachments/assets/771a40a1-2749-42af-9f5f-94d808677b6b)
