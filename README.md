@@ -67,3 +67,7 @@ end
 ## Code NodeRed
 
 ![image](https://github.com/user-attachments/assets/771a40a1-2749-42af-9f5f-94d808677b6b)
+
+### Gauge Thermodynamique
+![image](https://github.com/user-attachments/assets/e0e1f592-cbef-498e-99a3-57bf6a905f42)
+
